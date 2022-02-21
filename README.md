@@ -40,10 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikpavan&show_icons=true&locale=en&layout=compact" alt="kartikpavan" /></p> <br/>
 
----
-
 <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=kartikpavan&show_icons=true&hide_border=true">
-
----
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikpavan&" alt="kartikpavan" /></p>
