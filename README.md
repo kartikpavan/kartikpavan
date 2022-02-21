@@ -50,3 +50,5 @@
 ---
 
 <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=kartikpavan&show_icons=true&hide_border=true">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpavan&layout=compact)]
