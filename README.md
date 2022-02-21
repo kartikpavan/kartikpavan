@@ -43,3 +43,8 @@
 <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=kartikpavan&show_icons=true&hide_border=true">
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikpavan&" alt="kartikpavan" /></p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kartikpavan&repo=Expert_Expidition)](https://github.com/kartikpavan/Expert_Expidition)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kartikpavan&repo=
+burger-order-app)](https://github.com/kartikpavan/burger-order-app)
