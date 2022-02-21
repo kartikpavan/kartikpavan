@@ -1,25 +1,13 @@
-# Hi there, I'm Kartik Pavan 👋
-
-<!--
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
-[![Visual Studio Marketplace Rating (Stars)](https://img.shields.io/visual-studio-marketplace/stars/codestackr.codestackr-theme?label=codeSTACKr%20VS%20Code%20Theme&logo=visualstudiocode&logoColor=ff652f&style=for-the-badge)](https://marketplace.visualstudio.com/items?itemName=codestackr.codestackr-theme)
-[![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com) -->
-
-## I'm a Full-Stack Developer !!
+<h1 align="center">Hi there, I'm Kartik Pavan 👋</h1>
+<h3 align="center">A passionate Full Stack developer🚀</h3>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
 - 🥅 2022 Goals: Become proficient in Front-End and Back-End Frameworks and get a JOB.
 - ⚡ Fun fact: I am a Video Game Addict.
+- 📫 How to reach me **kartikpavan2@gmail.com**
 
 ### Connect with me:
-
-<!-- [![website](./twitter.svg)](https://twitter.com/kartik_im)
-
-[![website](./linkedin.svg)](https://www.linkedin.com/in/kartikpavan/) -->
 
 &nbsp;&nbsp;
 [![website](./twitter.svg)](https://twitter.com/kartik_im#gh-light-mode-only)
@@ -44,11 +32,18 @@
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" />
 
 <br/>
 
 ---
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartikpavan&show_icons=true&locale=en&layout=compact" alt="kartikpavan" /></p> <br/>
+
+---
+
 <img align="left" alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=kartikpavan&show_icons=true&hide_border=true">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikpavan&layout=compact)]
+---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartikpavan&" alt="kartikpavan" /></p>
