@@ -6,6 +6,7 @@
 - 🥅 2022 Goals: Become proficient in Front-End and Back-End Frameworks and get a JOB.
 - ⚡ Fun fact: I am a Video Game Addict.
 - 📫 How to reach me **kartikpavan2@gmail.com**
+- https://portfolio-kartikpavan.vercel.app/
 
 ### Connect with me:
 
