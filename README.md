@@ -1,9 +1,8 @@
 <h1 align="center">Hi there, I'm Kartik Pavan 👋</h1>
 <h3 align="center">A passionate Full Stack developer🚀</h3>
 
-- 🌱 I’m currently learning React Js and TypeScript 🤣
+- 🌱 I’m currently learning TypeScript and Next JS 13 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2022 Goals: Become proficient in Front-End and Back-End Frameworks and get a JOB.
 - ⚡ Fun fact: I am a Video Game Addict.
 - 📫 How to reach me **kartikpavan2@gmail.com**
 - https://portfolio-kartikpavan.vercel.app/
