@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate with other Developers
 - ⚡ Fun fact: I am a Video Game Addict.
 - 📫 How to reach me **kartikpavan2@gmail.com**
-- https://portfolio-kartikpavan.vercel.app/
+- https://kartik-pavan-profile.vercel.app/
 
 ### Connect with me:
 
